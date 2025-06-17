@@ -1,0 +1,5 @@
+main-coffee: https://akcdn.detik.net.id/visual/2020/10/05/bubuk-kopi_43.jpeg?w=720&q=90
+
+logo-biji-kopi: https://img1.pngdownload.id/20180225/gbw/avfl5dn4z.webp
+
+arabica, liberica, robusta: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLBnt6lCL0zslkYPepdeRNRyZ4IIfoUFJwg&s
